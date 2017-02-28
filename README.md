@@ -5,5 +5,5 @@ This script filters returns the evening news of the Icelandic National Televisio
 $ php ruvfrettir.php 
 
 ### Example:
-[screenshot](https://github.com/arnipluseinn/ruv-frettir-mp4/raw/master/ruvfrettir.png)
+![screenshot](https://github.com/arnipluseinn/ruv-frettir-mp4/raw/master/ruvfrettir.png)
 
